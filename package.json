@@ -1,0 +1,13 @@
+{
+  "name": "mf_importer",
+  "version": "0.1.0",
+  "main": "app.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
